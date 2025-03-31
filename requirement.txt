@@ -1,2 +1,4 @@
-pip install streamlit requests beautifulsoup4 pandas
-pip install requests beautifulsoup4 pandas
+streamlit
+requests
+beautifulsoup4
+pandas
